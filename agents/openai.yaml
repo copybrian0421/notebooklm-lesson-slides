@@ -1,0 +1,4 @@
+interface:
+  display_name: "備課魔法師・NotebookLM 簡報"
+  short_description: "將教材與風格規劃串接 NotebookLM，生成並下載教學簡報與素養題"
+  default_prompt: "使用 $notebooklm-lesson-slides，將我提供的教材製作成繁體中文教學簡報，直接透過 NotebookLM 生成並下載 PDF 與 PPTX。"

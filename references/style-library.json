@@ -1,0 +1,222 @@
+{
+  "attribution": "原創阿剛老師；修改青影；原頁標示CC BY-NC 4.0",
+  "styles": [
+    {
+      "label": "現代極簡 (Minimalist)",
+      "detail": "乾淨的大面積留白、無襯線字體、莫蘭迪色系，強調視覺呼吸感與極簡排版。"
+    },
+    {
+      "label": "科技未來 (Futuristic)",
+      "detail": "深色背景搭配螢光藍/紫線條、發光元素、數位電路紋理與科技感字體。"
+    },
+    {
+      "label": "數據專業 (Data-Driven)",
+      "detail": "嚴謹的網格系統、高對比配色、強調精緻的數據視覺化圖表與資訊層級。"
+    },
+    {
+      "label": "賽博龐克 (Cyberpunk)",
+      "detail": "高飽和霓虹色彩、故障藝術(Glitch)效果、繁華都市感與數位破碎視覺。"
+    },
+    {
+      "label": "金融嚴謹 (Finance)",
+      "detail": "深藍色與金色搭配、經典襯線體、穩定對稱的構圖，傳達信任與權威感。"
+    },
+    {
+      "label": "扁平化設計 (Flat UI)",
+      "detail": "明亮的幾何色塊、無陰影設計、直觀的圖標排版，強調易讀性與效率。"
+    },
+    {
+      "label": "蘋果美學 (Apple Style)",
+      "detail": "極致簡約、柔和灰度、強調產品攝影質感與流暢的動態排版。"
+    },
+    {
+      "label": "暗黑模式 (Dark Mode)",
+      "detail": "深灰至純黑背景、強調發光文字與光感層次，適合前衛或程式主題。"
+    },
+    {
+      "label": "綠色ESG永續 (Eco-ESG)",
+      "detail": "清新翠綠、無襯線字體、自然留白，強調環保、社會責任與永續發展。"
+    },
+    {
+      "label": "AI智慧未來 (AI & Machine)",
+      "detail": "炫彩極光、神經網路紋理、微發光動態框架，充滿先進演算法與智慧感。"
+    },
+    {
+      "label": "莫蘭迪色 (Morandi)",
+      "detail": "低彩度灰階色調、視覺上極其舒適與緩和，呈現高雅且沈穩的排版。"
+    },
+    {
+      "label": "溫慢療癒 (Healing)",
+      "detail": "柔和的大地色調、手繪植物元素、輕盈的排版節奏，強調親和力。"
+    },
+    {
+      "label": "自然有機 (Organic)",
+      "detail": "綠色系配色、有機形狀（如卵石）、模擬自然光影與植物脈絡視覺。"
+    },
+    {
+      "label": "北歐風格 (Nordic)",
+      "detail": "原木配色、灰白基礎色、清新通透的空間感與功能性排版。"
+    },
+    {
+      "label": "簡約雜誌 (Editorial)",
+      "detail": "高雅的襯線字體組合、大幅跨頁照片、詩意的留白，強調故事感。"
+    },
+    {
+      "label": "文青風格 (Vibe)",
+      "detail": "低飽和攝影圖片、微小的文字標題、強調生活感與細膩的情緒表達。"
+    },
+    {
+      "label": "手作水彩 (Watercolor)",
+      "detail": "透明清新的水彩暈染效果，邊緣自然過渡，搭配輕盈筆觸與大面積留白。"
+    },
+    {
+      "label": "復古羊皮紙 (Parchment)",
+      "detail": "溫潤微黃紙質、典雅墨黑襯線體、細緻古典花邊，充滿人文氣息。"
+    },
+    {
+      "label": "日式無印風 (Muji Style)",
+      "detail": "原木色調、輕柔白棉布質感、沈穩排版，營造極致和諧、內斂與自然舒適日常。"
+    },
+    {
+      "label": "禪意手繪 (Zen)",
+      "detail": "單色細線條、極致簡單的構圖、強調禪意與內斂的藝術表達。"
+    },
+    {
+      "label": "包浩斯 (Bauhaus)",
+      "detail": "強烈的幾何結構、紅黃藍三原色應用、強調功能性與實驗性排版。"
+    },
+    {
+      "label": "孟菲斯 (Memphis)",
+      "detail": "繽紛幾何碎塊、波浪線條、充滿活力的色彩與不規則圖案堆疊。"
+    },
+    {
+      "label": "拼貼藝術 (Collage)",
+      "detail": "剪報質感、重疊的圖文物件。"
+    },
+    {
+      "label": "故障藝術 (Glitch Art)",
+      "detail": "錯位的色相、掃描線效果、數位破碎感與強烈的動態視覺。"
+    },
+    {
+      "label": "瑞士風格 (Swiss)",
+      "detail": "絕對嚴謹的網格排版、巨大的無襯線標題、強烈非對稱平衡感。"
+    },
+    {
+      "label": "玻璃擬態 (Glass)",
+      "detail": "背景模糊透明效果(Frosted Glass)、輕盈層次感，強調深度與光影。"
+    },
+    {
+      "label": "擬態化 (Neumorphism)",
+      "detail": "利用軟陰影營造按鈕與卡片的深度感，呈現出如實體按鍵的層次。"
+    },
+    {
+      "label": "酸性設計 (Acid Graphics)",
+      "detail": "高飽和螢光色、流動的液態金屬質感、扭曲誇張的字體與密集排版。"
+    },
+    {
+      "label": "蒸氣波 (Vaporwave)",
+      "detail": "柔和粉紫色調、古希臘雕像、椰子樹與早期網際網路迷幻元素。"
+    },
+    {
+      "label": "野獸派 (Brutalism)",
+      "detail": "大膽不羈、未加工感、巨大的粗體標題、不規整且具侵略性的排版。"
+    },
+    {
+      "label": "溫馨童話 (Fairy Tale)",
+      "detail": "暖色手繪彩色鉛筆質感、柔和暖粉色調、夢幻且帶有感性的森林童話故事氛圍。"
+    },
+    {
+      "label": "立體剪紙 (Paper Cutout)",
+      "detail": "多層次堆疊的彩色卡紙質感、帶有柔和陰影的立體視覺、充滿手工溫度的排版。"
+    },
+    {
+      "label": "黏土格拍 (Claymation)",
+      "detail": "模擬真實黏土捏造的立體質感、圓潤可愛的物件，色彩高飽和且充滿生動童趣感。"
+    },
+    {
+      "label": "粉彩蠟筆 (Crayon Art)",
+      "detail": "充滿童趣的兒童塗鴉風格，粗糙的粉彩蠟筆筆觸，色彩鮮明活潑。"
+    },
+    {
+      "label": "森林系布偶 (Sylvanian Plush)",
+      "detail": "溫暖絨毛觸感、大地綠與暖木配色、柔焦自然光影，呈現極具安全感的故事風格。"
+    },
+    {
+      "label": "奇幻星空 (Dreamy Starry)",
+      "detail": "迷幻深藍渲染、細緻手繪燙金線條、螢光水波墨水，營造浪漫無垠的夜空。"
+    },
+    {
+      "label": "北歐插畫 (Nordic Folk)",
+      "detail": "簡練幾何動植物、高對比原色色塊、質樸手感編織纹理。"
+    },
+    {
+      "label": "復古蝕刻 (Vintage Etching)",
+      "detail": "細緻古典鋼筆排線、淡雅單色水彩淡著色、復古手寫體。"
+    },
+    {
+      "label": "東方水墨 (Ink Whimsy)",
+      "detail": "靈動水墨暈染、俏皮隨性留白、極簡寫意線條動物。"
+    },
+    {
+      "label": "隨性塗鴉 (Doodle Play)",
+      "detail": "隨性炭筆線條、高彩度溢出著色、無邊界排版，展現不受拘束的無限想像力。"
+    },
+    {
+      "label": "漫畫對話 (Comic Style)",
+      "detail": "鮮明的網點背景、逗趣對白框排版、放射狀集中線，以漫畫分鏡的方式呈現內容。"
+    },
+    {
+      "label": "像素冒險 (Pixel Game)",
+      "detail": "復古 8-bit 遊戲風格，點陣圖案搭配對話任務視窗排版。"
+    },
+    {
+      "label": "熱血少年漫 (Shonen Manga)",
+      "detail": "粗獷黑白墨線、強烈速度運動線、黑白網點背景，充滿張力。"
+    },
+    {
+      "label": "復古美漫 (Retro Comic)",
+      "detail": "半色調點陣 (Halftone)、大膽黑線描邊、高對比波普互補色。"
+    },
+    {
+      "label": "輕小說動漫 (Light Novel)",
+      "detail": "精緻日系賽璐璐上色、逆光溫暖光斑、透亮眼眸描繪。"
+    },
+    {
+      "label": "Q版四格 (Yonkoma Comic)",
+      "detail": "整齊等分方格、Q版兩頭身娃娃、誇張表情符號與汗滴標註。"
+    },
+    {
+      "label": "狂放水墨武俠 (Wuxia Ink)",
+      "detail": "寫意且剛勁的手繪水墨筆觸、煙霧繚繞背景、行楷書法字體。"
+    },
+    {
+      "label": "經典歐漫 (Franco-Belgian BD)",
+      "detail": "勻稱細黑鋼筆描邊 (Ligne Claire)、溫和寫實水彩著色。"
+    },
+    {
+      "label": "科幻機甲 (Mecha Sci-Fi)",
+      "detail": "金屬磨損質感、極光抬頭顯示器 (HUD) 邊框、冷冽幽藍光源。"
+    },
+    {
+      "label": "Webtoon條漫 (Modern Webtoon)",
+      "detail": "適合直式閱讀的流暢無框排版、柔和微發光特效、當代都會流行穿搭。"
+    }
+  ],
+  "avatar_prompts": {
+    "專業商務似顏繪": "A professional business portrait caricature. Highly realistic but stylized, wearing modern smart casual or business attire. The character must strictly maintain the facial features, likeness, and body proportions of the person in the reference photo.",
+    "Q版立體似顏繪": "A cute 3D chibi style caricature. Big expressive eyes, friendly smile, octane render, soft lighting. The character must maintain the distinct facial characteristics and general likeness of the person in the reference photo.",
+    "日系動漫似顏繪": "An anime style portrait, Studio Ghibli inspired. Vibrant colors, detailed expressive eyes. The character must closely resemble the facial structure and body type of the person in the reference photo.",
+    "藝術水彩似顏繪": "A watercolor illustration style portrait. Fluid brush strokes, ethereal and elegant. The artwork must highly capture the likeness, facial features, and body silhouette of the person in the reference photo.",
+    "歐美漫畫似顏繪": "A western comic book style caricature. Bold ink lines, dynamic shading, pop art colors. The character must strictly maintain the facial features and likeness of the real person in the reference photo.",
+    "簡約線條似顏繪": "A minimalist continuous line art style portrait. Simple black lines, elegant and modern. The line art must accurately outline the unique facial features and body shape of the person in the reference photo.",
+    "像素藝術似顏繪": "A 16-bit pixel art style character portrait. Retro gaming aesthetic. Despite the pixelation, it must strongly resemble the facial features and body proportions of the person in the reference photo.",
+    "黏土人偶似顏繪": "A claymation style character. Stop motion aesthetic, textured clay material. The doll must accurately reflect the specific facial features, hairstyle, and body type of the real person in the reference photo.",
+    "賽博龐克似顏繪": "A cyberpunk style avatar. Neon glowing accents, futuristic tech wear. The character's face and body proportions must be highly recognizable as the person in the reference photo.",
+    "復古普普似顏繪": "A retro pop art Andy Warhol style portrait. High contrast, halftone dots, vibrant complementary colors. The face and silhouette must exactly match the person in the reference photo.",
+    "潮流盲盒公仔": "A trendy Pop Mart blind box toy style caricature. Glossy plastic material, smooth and rounded edges, big cute eyes, adorable posture. The doll must accurately reflect the specific facial features and body proportions of the real person in the reference photo.",
+    "毛線羊毛氈風": "A cute amigurumi wool felt style caricature. Soft, fuzzy texture, plush toy aesthetic, warm lighting. The character must strictly maintain the distinct facial characteristics, likeness, and body type of the person in the reference photo.",
+    "溫馨童話繪本": "A cute children's picture book illustration style portrait. Soft pastel colors, warm and whimsical, hand-drawn colored pencil texture. The character must highly resemble the facial structure and body silhouette of the real person in the reference photo.",
+    "活潑扁平卡通": "A cute and lively modern 2D flat vector cartoon caricature. Clean lines, bright vibrant solid colors, expressive and fun. The character must strictly maintain the facial features and likeness of the real person in the reference photo.",
+    "森林系布偶風": "A cute Sylvanian Families inspired flocked doll caricature. Soft velvety texture, adorable rounded features, wearing tiny cute clothes. The character's core facial identity and body shape must closely match the person in the reference photo."
+  }
+}
